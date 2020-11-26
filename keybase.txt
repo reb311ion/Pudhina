@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/reb311ion
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.reb311ion.com
+  * I am reb311ion (https://keybase.io/reb311ion) on keybase.
+  * I have a public key ASBArrJuAMJiwEUze3K1tk44uZqTMtDYzo25-Ol_RXS_-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012040aeb26e00c262c045337b72b5b64e38b99a9332d0d8ce8db9f8e97f4574bff80a",
+      "host": "keybase.io",
+      "kid": "012040aeb26e00c262c045337b72b5b64e38b99a9332d0d8ce8db9f8e97f4574bff80a",
+      "uid": "ba9917d709417c8c021c10b200423319",
+      "username": "reb311ion"
+    },
+    "merkle_root": {
+      "ctime": 1606422249,
+      "hash": "adfce22e6edf9acbd35ef5093d7b53e32a8bb163d02ee9ceadbbdeae90401ff6ef8fe11217aabc1e5d39860f0593fd5687ee0042d6121671ab99da954d108deb",
+      "hash_meta": "c1c62fe1ff19e294b28a41813caff791a40d96fa553619758571e118571d2556",
+      "seqno": 18235438
+    },
+    "service": {
+      "entropy": "k2ueHCw6yxbhudmTcRhJ/dnI",
+      "hostname": "www.reb311ion.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1606422276,
+  "expire_in": 504576000,
+  "prev": "5d3227a5df08eaf4f037c8663c05dcadd799e28200a58b73624efe987ec77222",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQK6ybgDCYsBFM3tytbZOOLmakzLQ2M6Nufjpf0V0v/gKp3BheWxvYWTESpcCBsQgXTInpd8I6vTwN8hmPAXcrdeZ4oIApYtzYk7+mH7HciLEIOJSIW4B0iM1nRaAfJEEAyTSaKBxkISi8RQtZrMM9ktbAgHCo3NpZ8RAYtGBZ6AKY+hAqM53tt4v5ubmUCAsB7uCBFKkDBoHsqzADmsbsUnDfLw8jEYhZvcRCZ+58MSWd/+MM2DWWFLBCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBgW+HKjGKfRValyKJAc5n98Z9QBwt++LyFhn6X3hukao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reb311ion
+
+==================================================================
